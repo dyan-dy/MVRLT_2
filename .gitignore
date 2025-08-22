@@ -1,0 +1,10 @@
+*__pycache__*
+relighting_outputs*
+gs_outputs*
+*.pt
+*.zip
+debug*
+*.png
+*.mp4
+data
+weights
