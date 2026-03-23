@@ -5,5 +5,3 @@ Recomend RAM 48GB
 
 Cite:
 https://github.com/yehonathanlitman/LightSwitch/tree/main
-
-Not going to work on the project currently.
